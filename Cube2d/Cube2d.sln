@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cube2d", "Cube2d\Cube2d.csproj", "{05FD30B2-5AAB-4D1F-974B-2EA96F42B766}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cube2d", "Cube2d\Cube2d.csproj", "{05FD30B2-5AAB-4D1F-974B-2EA96F42B766}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CubeOfRubick", "CubeOfRubick\CubeOfRubick.csproj", "{4810E26D-4502-427F-A4CD-FA4419253F03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RubicForms", "RubicForms\RubicForms.csproj", "{5557E006-9E0A-4667-BB6A-CA09F947CACE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{05FD30B2-5AAB-4D1F-974B-2EA96F42B766}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05FD30B2-5AAB-4D1F-974B-2EA96F42B766}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05FD30B2-5AAB-4D1F-974B-2EA96F42B766}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4810E26D-4502-427F-A4CD-FA4419253F03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4810E26D-4502-427F-A4CD-FA4419253F03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4810E26D-4502-427F-A4CD-FA4419253F03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4810E26D-4502-427F-A4CD-FA4419253F03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5557E006-9E0A-4667-BB6A-CA09F947CACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5557E006-9E0A-4667-BB6A-CA09F947CACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5557E006-9E0A-4667-BB6A-CA09F947CACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5557E006-9E0A-4667-BB6A-CA09F947CACE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
